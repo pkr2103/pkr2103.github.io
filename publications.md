@@ -1,4 +1,4 @@
-### 2018
+## 2018
 [McDermott, Cassidy L., Jakob Seidlitz, Ajay Nadig, Siyuan Liu, Liv S. Clasen, Jonathan D. Blumenthal, Paul K. Reardon, et al. “Longitudinally Mapping Childhood Socioeconomic Status Associations with Cortical and Subcortical Morphology.” BioRxiv, June 20, 2018, 352187. https://doi.org/10.1101/352187.](https://www.biorxiv.org/content/early/2018/06/20/352187) 
 
 
@@ -13,12 +13,12 @@
 
 
 
-### 2017
+## 2017
 [Mankiw, Catherine, Min Tae M. Park, P. K. Reardon, Ari M. Fish, Liv S. Clasen, Deanna Greenstein, Jay N. Giedd, et al. “Allometric Analysis Detects Brain Size-Independent Effects of Sex and Sex Chromosome Complement on Human Cerebellar Organization.” The Journal of Neuroscience: The Official Journal of the Society for Neuroscience, March 17, 2017. https://doi.org/10.1523/JNEUROSCI.2158-16.2017.](https://www.ncbi.nlm.nih.gov/pubmed/28314818) 
 
 
 
-### 2016
+## 2016
 [Fish, Ari M., Arnaud Cachia, Clara Fischer, Catherine Mankiw, P. K. Reardon, Liv S. Clasen, Jonathan D. Blumenthal, et al. “Influences of Brain Size, Sex, and Sex Chromosome Complement on the Architecture of Human Cortical Folding.” Cerebral Cortex (New York, N.Y.: 1991), October 31, 2016. https://doi.org/10.1093/cercor/bhw323.](https://academic.oup.com/cercor/article/27/12/5557/2354955)  
 
 
