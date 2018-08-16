@@ -6,7 +6,7 @@
 [Nadig, Ajay, Paul K. Reardon, Jakob Seidlitz, Cassidy L. McDermott, Jonathan D. Blumenthal, Liv S. Clasen, Francois Lalonde, Jason Lerch, Mallar M. Chakravarty, and Armin Raznahan. “Carriage of Supernumerary Sex Chromosomes Decreases the Volume and Alters the Shape of Limbic Structures.” BioRxiv, June 20, 2018, 346767. https://doi.org/10.1101/346767.](https://www.biorxiv.org/content/early/2018/06/20/346767)  
 
 
-[Reardon, P. K.*, Jakob Seidlitz*, Simon Vandekar, Siyuan Liu, Raihaan Patel, Min Tae M. Park, Aaron Alexander-Bloch, et al. “Normative Brain Size Variation and Brain Shape Diversity in Humans.” Science 360, no. 6394 (June 15, 2018): 1222–27. https://doi.org/10.1126/science.aar2578.](http://science.sciencemag.org/content/early/2018/05/30/science.aar2578)  
+[Reardon, P. K.\*, Jakob Seidlitz\*, Simon Vandekar, Siyuan Liu, Raihaan Patel, Min Tae M. Park, Aaron Alexander-Bloch, et al. “Normative Brain Size Variation and Brain Shape Diversity in Humans.” Science 360, no. 6394 (June 15, 2018): 1222–27. https://doi.org/10.1126/science.aar2578.](http://science.sciencemag.org/content/early/2018/05/30/science.aar2578)  
 *co-first authors  
 
 
